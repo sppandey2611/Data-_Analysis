@@ -63,9 +63,4 @@ The objective is to perform **data cleaning, exploratory data analysis (EDA), an
 
 ---
 
-## ✨ Author  
-👤 **Devi Prasad Dubey**  
-📧 [Your Email Here]  
-🔗 [Your LinkedIn / Portfolio Link Here]  
 
----
