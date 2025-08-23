@@ -8,7 +8,7 @@ The objective is to perform **data cleaning, exploratory data analysis (EDA), an
 
 ## 📂 Dataset Information  
 - **File name:** `HR-Employee-Attrition.csv`  
-- **Source:** IBM HR Analytics dataset (commonly used in HR case studies)  
+- **Source:** IBM HR Analytics dataset.
 - **Shape:** ~1,470 rows × 35 columns  
 - **Content:**  
   - Employee demographics (Age, Gender, Education, etc.)  
